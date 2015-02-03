@@ -22,7 +22,8 @@ h1 {
 .displayed {
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto; 
+	shape-outside: circle(50% at 0 0);
 }
 
 .blocktext {
