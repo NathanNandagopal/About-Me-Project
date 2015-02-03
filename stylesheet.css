@@ -1,14 +1,20 @@
 * {
+	position:center;
 	background-color: black;
 }
 
 
 #my_name {
-			margin-left:50;
 			color:white;
 }
 
 li {
 	font-family:Verdana;
 	color:white;
+}
+
+h1 {text-align:center;}
+
+.picture_of_me { 
+
 }
