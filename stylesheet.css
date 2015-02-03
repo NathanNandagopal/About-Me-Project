@@ -4,17 +4,15 @@
 }
 
 
-#my_name {
-			color:white;
-}
 
 li {
 	font-family:Verdana;
 	color:white;
+	font-size:12;
+
 }
 
-h1 {text-align:center;}
-
-.picture_of_me { 
-
+h1 {
+	text-align:center;
+	color:white;
 }
