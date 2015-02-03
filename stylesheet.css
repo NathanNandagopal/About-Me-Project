@@ -6,13 +6,18 @@
 
 
 li {
+	font-size:12px;
 	font-family:Verdana;
 	color:white;
-	font-size:12;
+	font-weight:bold;
 
 }
 
 h1 {
 	text-align:center;
 	color:white;
+}
+
+img {
+		text-align: center;
 }
