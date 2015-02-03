@@ -33,15 +33,15 @@ h1 {
     width: 400px
 }
 
-.resume_link {
-	margin-left: auto;
-	margin-right: auto;
-	text-decoration: none;
-	color:cyan;
+p {
+	text-align:center;
 
 }
 
-
+a {
+	text-decoration: none;
+	color:cyan;
+}
 
 
 
