@@ -11,3 +11,9 @@ a {
 a:hover {
 	color:red;
 }
+
+.name {
+		font-size:50px;
+		font-family:Georgia;
+		font-weight:bold;
+}
