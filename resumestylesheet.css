@@ -7,6 +7,7 @@ a {
 	text-decoration:none;
 	color:blue;
 	text-align:center;
+	
 }
 
 a:hover {
@@ -23,4 +24,8 @@ a:hover {
 .address {
 			margin-top:0;
 			font-size:14px;
+}
+
+.education {
+			float:left;
 }
