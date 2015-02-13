@@ -7,7 +7,9 @@ a {
 	text-decoration:none;
 	color:blue;
 	text-align:center;
-	
+	float:left;
+	padding-left: 500px;
+
 }
 
 a:hover {
@@ -27,5 +29,11 @@ a:hover {
 }
 
 .education {
+			position:left;
 			float:left;
+			width:1000px;
+}
+
+body {
+		width:1000px;
 }
