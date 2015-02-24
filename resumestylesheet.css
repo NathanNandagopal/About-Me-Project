@@ -38,6 +38,7 @@ a:hover {
 			position:right;
 			float:right;
 			padding-right:10em;
+			clear:both;
 }
 
 .olympia {
