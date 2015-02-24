@@ -34,6 +34,12 @@ a:hover {
 			padding-left:15em;
 }
 
+.skills {
+			position:right;
+			float:right;
+			padding-right:10em;
+}
+
 .olympia {
 			position:left;
 			float:left;
