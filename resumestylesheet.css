@@ -40,6 +40,13 @@ a:hover {
 			padding-left:15em;
 }
 
+.olympia_dates {
+				position:right;
+				float:right;
+				padding-right:15em;
+}
+
+
 .robin {
 		position:left;
 		float:left;
