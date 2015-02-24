@@ -43,7 +43,7 @@ a:hover {
 .olympia_dates {
 				position:right;
 				float:right;
-				padding-right:15em;
+				padding-right:10em;
 }
 
 
@@ -52,6 +52,13 @@ a:hover {
 		float:left;
 		padding-left:15em;
 }
+
+.robin_dates {
+				position:right;
+				float:right;
+				padding-right:10em;
+}
+
 
 .parks {
 		position:left;
