@@ -17,25 +17,25 @@ a:hover {
 }
 
 .name {
-		font-size:50px;
-		font-family:Georgia;
-		font-weight:bold;
-		margin-bottom:0;
+	font-size:50px;
+	font-family:Georgia;
+	font-weight:bold;
+	margin-bottom:0;
 }
 
 .address {
-			margin-top:0;
-			font-size:14px;
+	margin-top:0;
+	font-size:14px;
 }
 
 .education_skills_container {
-								width:630px;
-								margin:0 auto;
+	width:630px;
+	margin:0 auto;
 }
 
 .education {
-			float:left;
-			padding-right:50px;
+	float:left;
+	padding-right:50px;
 }
 
 .picture {
@@ -44,49 +44,46 @@ a:hover {
 	border:10px solid blue;
 }
 
-.skills {
-			
-			float:right;
-			padding-left:50px;
+.skills {			
+	float:right;
+	padding-left:50px;
 }
 
 .clear {
-		clear:both;
+	clear:both;
 }
 
 .experience {
-				clear:both;
+	clear:both;
 }
 
 .olympia_and_olympia_dates_container_outmost {
-										width:630px;
-										margin:0 auto;
+	width:630px;
+	margin:0 auto;
 }
 
 .olympia {
-			
-			float:left;
+	float:left;
 			
 }
 
 .job_dates {
-				
-				float:right;
-				width:50%;
-				text-align:right;
+	float:right;
+	width:50%;
+	text-align:right;
 				
 }
 
 .workplace {
-				float:left;
-				width:50%;
-				margin:0 auto;
-				text-align:left;
+	float:left;
+	width:50%;
+	margin:0 auto;
+	text-align:left;
 }
 
 .job_title {
-				display:block;
-				text-align:left;
+	display:block;
+	text-align:left;
 }
 
 
@@ -95,44 +92,44 @@ a:hover {
 }
 
 .job_description li {
-						width:630px;
-						margin:0 auto;
-						text-align:left;
+	width:630px;
+	margin:0 auto;
+	text-align:left;
 }
 
 
 
 .job_description, .job_title {
-								margin-left:40px;
+	margin-left:40px;
 }
 
 
 .robin {
-		position:left;
-		float:left;
-		padding-left:15em;
+	position:left;
+	float:left;
+	padding-left:15em;
 }
 
 .robin_dates {
-				position:right;
-				float:right;
-				padding-right:10em;
+	position:right;
+	float:right;
+	padding-right:10em;
 }
 
 
 .parks {
-		position:left;
-		float:left;
-		padding-left:15em;
+	position:left;
+	float:left;
+	padding-left:15em;
 }
 
 .parks_dates {
-				position:right;
-				float:right;
-				padding-right:10em;
+	position:right;
+	float:right;
+	padding-right:10em;
 }
 
 
 body {
-		width:1000px;
+	width:1000px;
 }
