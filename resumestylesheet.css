@@ -28,6 +28,9 @@ a:hover {
 	font-size:14px;
 }
 
+
+/* BELOW THIS: MIDDLE SKILLS AND EDUCATION */
+
 .education_skills_container {
 	width:630px;
 	margin:0 auto;
@@ -52,6 +55,13 @@ a:hover {
 .clear {
 	clear:both;
 }
+/* ABOVE THIS: MIDDLE SKILLS AND EDUCATION */
+
+
+
+
+
+/* BELOW THIS: BOTTOM WORK EXPERIENCE*/
 
 .experience {
 	clear:both;
@@ -61,6 +71,7 @@ a:hover {
 	width:630px;
 	margin:0 auto;
 }
+
 
 .olympia {
 	float:left;
@@ -103,6 +114,11 @@ a:hover {
 	margin-left:40px;
 }
 
+
+.robin_and_robin_dates_container_outmost {
+	width:630px;
+	margin:0 auto;
+}
 
 .robin {
 	position:left;
