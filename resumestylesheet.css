@@ -28,17 +28,27 @@ a:hover {
 			font-size:14px;
 }
 
+.education_skills_container {
+								width:630px;
+								margin:0 auto;
+}
+
 .education {
-			position:left;
 			float:left;
-			padding-left:15em;
 }
 
 .skills {
-			position:right;
+			
 			float:right;
-			padding-right:10em;
-			clear:both;
+			padding-left:5em;
+}
+
+.clear {
+		clear:both;
+}
+
+.experience {
+				clear:both;
 }
 
 .olympia {
