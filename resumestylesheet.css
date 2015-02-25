@@ -35,12 +35,19 @@ a:hover {
 
 .education {
 			float:left;
+			padding-right:50px;
+}
+
+.picture {
+	width:150px;
+	border-radius:50%;
+	border:10px solid blue;
 }
 
 .skills {
 			
 			float:right;
-			padding-left:5em;
+			padding-left:50px;
 }
 
 .clear {
