@@ -51,16 +51,21 @@ a:hover {
 				clear:both;
 }
 
+.olympia_and_olympia_dates_container {
+										width:630px;
+										margin:0 auto;
+}
+
 .olympia {
-			position:left;
+			
 			float:left;
-			padding-left:15em;
+			
 }
 
 .olympia_dates {
-				position:right;
+				
 				float:right;
-				padding-right:10em;
+				padding-left:10em;
 }
 
 
