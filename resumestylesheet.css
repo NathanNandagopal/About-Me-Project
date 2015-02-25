@@ -29,7 +29,7 @@ a:hover {
 }
 
 
-/* BELOW THIS: MIDDLE SKILLS AND EDUCATION */
+/* BELOW THIS: SKILLS , PICTURE, AND EDUCATION */
 
 .education_skills_container {
 	width:630px;
@@ -44,7 +44,7 @@ a:hover {
 .picture {
 	width:150px;
 	border-radius:50%;
-	border:10px solid blue;
+	border:10px solid #CAF1FF;
 }
 
 .skills {			
@@ -55,7 +55,7 @@ a:hover {
 .clear {
 	clear:both;
 }
-/* ABOVE THIS: MIDDLE SKILLS AND EDUCATION */
+/* ABOVE THIS: SKILLS, PICTURE, AND EDUCATION */
 
 
 
@@ -132,6 +132,11 @@ a:hover {
 	padding-right:10em;
 }
 
+
+.parks_and_parks_dates_container_outmost {
+	width:630px;
+	margin:0 auto;
+}
 
 .parks {
 	position:left;
