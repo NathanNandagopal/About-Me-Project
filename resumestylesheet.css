@@ -51,7 +51,7 @@ a:hover {
 				clear:both;
 }
 
-.olympia_and_olympia_dates_container {
+.olympia_and_olympia_dates_container_outmost {
 										width:630px;
 										margin:0 auto;
 }
@@ -62,10 +62,41 @@ a:hover {
 			
 }
 
-.olympia_dates {
+.job_dates {
 				
 				float:right;
-				padding-left:10em;
+				width:50%;
+				text-align:right;
+				
+}
+
+.workplace {
+				float:left;
+				width:50%;
+				margin:0 auto;
+				text-align:left;
+}
+
+.job_title {
+				display:block;
+				text-align:left;
+}
+
+
+.job_description {
+	padding:0;
+}
+
+.job_description li {
+						width:630px;
+						margin:0 auto;
+						text-align:left;
+}
+
+
+
+.job_description, .job_title {
+								margin-left:40px;
 }
 
 
