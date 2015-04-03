@@ -20,6 +20,12 @@ h1 {
 }
 
 
+
+.whole_menu_bar {
+
+}
+
+
 .displayed {
     display: block;
     margin-left: auto;
@@ -45,7 +51,7 @@ a {
 }
 
 a:hover {
-		color:red;
+	color:red;
 }
 
 
