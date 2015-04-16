@@ -32,6 +32,12 @@
 }
 
 
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px
+    color:white;
+}
 
 
 
@@ -43,15 +49,48 @@
 
 
 
+.displayed1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 90%;
+    height: 90%;
+	
+}
+
+@media (min-width: 620px) {
+	.displayed1{
+		width:500px;
+		height:500px;
+	}
+
+}
+.clear {
+	clear:both;
+}
+
+
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+	
+}
 
 
 html {
 	background-image: url("nathan_bgd.JPG");
-	background-size: cover;
 	background-repeat:no-repeat;
+	background-size: 130% 120%;
 	height:100%;
 }
 
+@media (min-width: 620px) {
+	html{
+		background-size: 150% 150%;
+	}
+}
 
 body {
 	margin:0 auto;
@@ -130,6 +169,13 @@ a:hover, a:active {
     background-color: black;
 }
 
+@media (max-width: 600px) {
+	.displayed{
+		width:90%%;
+	}
 
+}
 
-
+.name_at_top{
+	background-color: black;
+}
